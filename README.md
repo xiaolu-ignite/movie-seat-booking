@@ -1,5 +1,5 @@
 Demo Link:
-https://ludeng303.github.io/movie-seat-booking/
+https://xiaolu-ignite.github.io/movie-seat-booking/
 
 ## Movie Seat Booking
 
